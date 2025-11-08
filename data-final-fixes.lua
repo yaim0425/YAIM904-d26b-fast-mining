@@ -101,7 +101,6 @@ function This_MOD.get_elements()
         --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
         if not entity.minable then return end
-        if not entity.minable.results then return end
         entity.minable.mining_time = entity.minable.mining_time or 1
         if entity.minable.mining_time <= This_MOD.new_value then return end
 
