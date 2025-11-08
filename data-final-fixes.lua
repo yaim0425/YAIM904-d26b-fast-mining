@@ -144,8 +144,10 @@ function This_MOD.get_elements()
     --- Preparar los datos a usar
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-    for _, entity in pairs(GMOD.entities) do
-        valide_entity(entity)
+    for _, entities in pairs(data.raw) do
+        for _, entity in pairs(entities) do
+            valide_entity(entity)
+        end
     end
 
     --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
