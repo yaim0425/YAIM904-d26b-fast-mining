@@ -42,13 +42,27 @@ Once enabled, the effect is global and immediate.
 
 ## 🔗 Repository
 
-* GitHub:  
-  https://github.com/yaim0425/YAIM0425-d26b-fast-mining
+**MOD**
+[YAIM0425 d26b Fast mining](https://github.com/yaim0425/YAIM0425-d26b-fast-mining)
+
+**Required**
+
+[YAIM0425 d00b Core](https://github.com/yaim0425/YAIM0425-d00b-core)
+
+---
+
+## ❤️ Support
+
+Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
 
 ---
 
 ## 🖼️ Screenshots
 
-![Fast Mining Screenshot 1](screenshot/\(1\).png)
+![Screenshot 1](https://github.com/yaim0425/YAIM0425-d26b-fast-mining/raw/code/screenshot/(1).png)
 
----
+![Screenshot 2](https://github.com/yaim0425/YAIM0425-d26b-fast-mining/raw/code/screenshot/(2).png)
+
+![Screenshot 3](https://github.com/yaim0425/YAIM0425-d26b-fast-mining/raw/code/screenshot/(3).png)
+
+![Screenshot 4](https://github.com/yaim0425/YAIM0425-d26b-fast-mining/raw/code/screenshot/(4).png)
