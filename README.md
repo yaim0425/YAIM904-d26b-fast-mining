@@ -1,5 +1,7 @@
 # YAIM904 d26b – Fast Mining ⛏️
 
+---
+
 ## 📦 Description
 
 **YAIM904 d26b – Fast Mining** reduces the mining time of **all mineable resources** to the **minimum value allowed by Factorio**.
@@ -53,7 +55,7 @@ Once enabled, the effect is global and immediate.
 
 ## ❤️ Support
 
-Suggestions, ideas, and balance feedback are welcome on the GitHub repository.
+Suggestions, ideas and balance feedback are welcome on the GitHub repository.
 
 ---
 
